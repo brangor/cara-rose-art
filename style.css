@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-color: #a2e1db;
+}
+
+div#content {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Amatic SC", cursive;
+  font-size: 3.5rem;
+  line-height: 3rem;
+  font-weight: 400;
+  color: #a6813c;
+}
+
+h1 .boldened {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+a {
+  font-family: "Quicksand", sans-serif;
+  line-height: 2.5rem;
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: #a43b43;
+  text-decoration: none;
+}
